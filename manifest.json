@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "SchoolsONE(Fetch Content)",
+    "name": "SchoolsONE (Fetch Content)",
     "version": "1.0",
     "description": "Fetch and copy all content from a webpage",
     "permissions": ["scripting", "activeTab", "clipboardWrite"],
